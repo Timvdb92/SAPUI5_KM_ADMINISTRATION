@@ -1,0 +1,2 @@
+# SAPUI5_KM_ADMINISTRATION
+SAPUI5 to read KM content
